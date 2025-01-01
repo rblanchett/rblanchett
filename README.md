@@ -36,7 +36,7 @@ Check out my [ASBMB article](https://www.asbmb.org/asbmb-today/opinions/012424/m
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/reid-blanchett-phd-419aaa5a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reid-blanchett-phd-419aaa5a)  
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4082-7603)
 
 Feel free to reach out to collaborate, share ideas, or discuss research opportunities!
