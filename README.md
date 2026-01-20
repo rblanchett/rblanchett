@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a **Postdoctoral Research Fellow** at the **Van Andel Research Institute (VARI)** and an **NCI Postdoctoral Fellowship** recipient in **Cancer Epigenetics**. My research focuses on unraveling the complex interplay between epigenetics and cancer biology to advance therapeutic strategies. I also have experience in neurdevelopment from my PhD at Michigan State University in the Genetics and Genome Sciences program. 
+I am a **Postdoctoral Research Fellow** at the **Josep Carreras Leukemia Research Institute (IJC)** and an **Postdoctoral Fellowship** recipient in **Cancer Epigenetics**. My research focuses on unraveling the complex interplay between epigenetics and cancer biology to advance therapeutic strategies. I also have experience in neurdevelopment from my PhD at Michigan State University in the Genetics and Genome Sciences program. 
 
 When I'm not analyzing data, I enjoy engaging in advocacy work, supporting diversity and inclusion in STEM, and mentoring the next generation of scientists. I currently hold a competitively selected position on the American Society for Biochemistry and Molecular Biology's (ASBMB) Maximizing Access Committee. 
 
